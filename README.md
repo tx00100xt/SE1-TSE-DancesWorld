@@ -28,6 +28,12 @@ cd SE1-TSE-DancesWorld/Sources
 After that , libraries will be collected in the x32 or x64 directory . 
 Copy them to SeriousSamClassic/SamTSE/Mods/DancesWorld/Bin folder.
 
+### Suported OS
+linux
+
+### Other OS
+Not supported
+
 License
 -------
 
