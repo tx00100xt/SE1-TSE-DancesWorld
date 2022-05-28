@@ -2,7 +2,7 @@
 
 What is Dances World?
 This is a modification for Serious Sam Classic The Second Encounter. 
-This mod required https://github.com/tx00100xt/SeriousSamClassic to run.
+This mod required https://github.com/tx00100xt/SeriousSamClassic or https://github.com/tx00100xt/SeriousSamClassic-VK to run.
 Dances World was created by fans of the game Serious Sam Classic and is distributed for free.
 Remark:  DwK (Dance with Kleer) is author this mod for windows.
 
