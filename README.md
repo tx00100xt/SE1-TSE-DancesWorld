@@ -55,7 +55,7 @@ Type this in your terminal:
 ```
 git clone https://github.com/tx00100xt/SE1-TSE-DancesWorld.git SE1-TSE-DancesWorld
 cd SE1-TSE-DancesWorld/Sources
-./build-linux64.sh              # use build-linux32.sh for 32-bits
+bash build-linux64.sh              # use build-linux32.sh for 32-bits
 ```
 After that , libraries will be collected in the x32 or x64 directory . 
 Copy them to SeriousSamClassic/SamTSE/Mods/DancesWorld/Bin folder.
