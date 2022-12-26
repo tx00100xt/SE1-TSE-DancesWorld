@@ -16,8 +16,8 @@ Remark:  DwK (Dance with Kleer) is author this mod for windows.
 Download [SamTSE-DancesWorld.tar.xz] archive and unpack to  SeriousSamClassic/SamTSE/ directory.
 To start the modification, use the game menu - item Modification.
 
-Building Serious Sam Classic Dances World modification (only for SS:TSE)
-------------------------------------------------------------------------
+Building Serious Sam Classic Dances World Mod (only for SS:TSE)
+---------------------------------------------------------------
 
 ### Linux
 
