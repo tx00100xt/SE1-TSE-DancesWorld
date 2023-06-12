@@ -647,8 +647,8 @@ jobs:
             cd ${{github.workspace}}
             echo "*** Copy DancesWorld Libraries ***"
             echo "cp -vfr Sources/build/Debug/*.so ppc64le/SamTSE/Mods/DancesWorld/Bin"
-            cp -vfr Sources/build/Debug/libEntitiesMP.so riscv64/SamTSE/Mods/DancesWorld/Bin
-            cp -vfr Sources/build/Debug/libGameMP.so riscv64/SamTSE/Mods/DancesWorld/Bin
+            cp -vfr Sources/build/Debug/libEntitiesMP.so ppc64le/SamTSE/Mods/DancesWorld/Bin
+            cp -vfr Sources/build/Debug/libGameMP.so ppc64le/SamTSE/Mods/DancesWorld/Bin
 
             echo "*** Create archive ***"
             tar -cJpvf SamTSE-DancesWorld-${{ steps.date.outputs.time }}-lnx-ppc64le-bin.tar.xz ppc64le         
@@ -750,8 +750,8 @@ jobs:
             cd ${{github.workspace}}
             echo "*** Copy DancesWorld Libraries ***"
             echo "cp -vfr Sources/build/Debug/*.so s390x/SamTSE/Mods/DancesWorld/Bin"
-            cp -vfr Sources/build/Debug/libEntitiesMP.so riscv64/SamTSE/Mods/DancesWorld/Bin
-            cp -vfr Sources/build/Debug/libGameMP.so riscv64/SamTSE/Mods/DancesWorld/Bin
+            cp -vfr Sources/build/Debug/libEntitiesMP.so s390x/SamTSE/Mods/DancesWorld/Bin
+            cp -vfr Sources/build/Debug/libGameMP.so s390x/SamTSE/Mods/DancesWorld/Bin
 
             echo "*** Create archive ***"
             tar -cJpvf SamTSE-DancesWorld-${{ steps.date.outputs.time }}-lnx-s390x-bin.tar.xz s390x          
