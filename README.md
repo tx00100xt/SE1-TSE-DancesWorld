@@ -1,8 +1,8 @@
 ## Serious Sam Classic Dances World
-![Build status](https://github.com/tx00100xt/SE1-TSE-DancesWorld/actions/workflows/cibuild.yml/badge.svg)
+[![Build status](https://github.com/tx00100xt/SE1-TSE-DancesWorld/actions/workflows/cibuild.yml/badge.svg)](https://github.com/tx00100xt/SE1-TSE-DancesWorld/actions/)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/tx00100xt/SE1-TSE-DancesWorld)
-[![Github downloads](https://img.shields.io/github/downloads/tx00100xt/SE1-TSE-DancesWorld/total.svg?logo=github&logoColor=white&style=flat-square&color=E75776)]()
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/tx00100xt/SE1-TSE-DancesWorld)](https://github.com/tx00100xt/SE1-TSE-DancesWorld/releases/tag/v2.0.1)
+[![Github downloads](https://img.shields.io/github/downloads/tx00100xt/SE1-TSE-DancesWorld/total.svg?logo=github&logoColor=white&style=flat-square&color=E75776)](https://github.com/tx00100xt/SE1-TSE-DancesWorld/releases/)
 
 What is Dances World?
 This is a modification for Serious Sam Classic The Second Encounter. 
