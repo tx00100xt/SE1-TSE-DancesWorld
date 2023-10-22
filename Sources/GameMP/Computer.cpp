@@ -1166,10 +1166,10 @@ void CGame::ComputerRender(CDrawPort *pdp)
       fComputerFadeValue = 0.0f;
       _pGame->gm_csComputerState   = CS_OFF;
       ComputerOff();
-
+#ifdef PLATFORM_UNIX
       if (_pInput != NULL) // rcg02042003 hack for SDL vs. Win32.
         _pInput->ClearRelativeMouseMotion();
-
+#endif
       cmp_ppenPlayer = NULL;
       // exit computer
       return;
@@ -1339,8 +1339,9 @@ void CGame::ComputerForceOff()
   _pGame->gm_csComputerState = CS_OFF;
   fComputerFadeValue = 0.0f;
   _ppenPlayer = NULL;
-
+#ifdef PLATFORM_UNIX
   if (_pInput != NULL) // rcg02042003 hack for SDL vs. Win32.
     _pInput->ClearRelativeMouseMotion();
+#endif
 }
 
